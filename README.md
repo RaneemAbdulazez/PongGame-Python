@@ -18,13 +18,13 @@
 - speed is 1 
 - finishes after 3 minutes from start
 - No additional features
-    #### level two : 
+    ### level two : 
 - screen tells that level two starts 
 - speed is 2 or 3 
 - the winner can strech the player width using key for 3 times 
 - the level finishes after 3 minutes 
 
-  ### level 3 
+    ### level three :
 
 
 
