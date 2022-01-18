@@ -1,27 +1,39 @@
-# PongGame-Python
+# Pong Game 
+
+### Phase 1
+- [x] create screen 
+- [x] create players and ball 
+- [x] handeling players and ball movement
+- [x] handeling score
+- [x] handeling ball position after score 
+- [x] draw middle line on the screen 
+- [x] write score on screen 
 
 
-this game is personal project for learning purpose 
-
-Game discribtion (mvp):
-    - two players have pong ball and they should achieve goals 
-    - it has 3 round each round 5 minutes 
-    - when a player win for the first round he/she get new feature :
-        - the rectangle  size can be controled and maximized for 2 times when it felt risky 
-            - if the player finished the round and didn't use this feature at all it will not be available in the next round whether he won or not 
-            - if the player use it for once , the other time can be save for the next round 
-
-    - when a player win for the secound round he/she get new feature :
-       - hitting the ball in 10X speed for 2 times .
-            - if the player finished the round and didn't use this feature at all it will not be available in the next round whether he won or not 
-            - if the player use it for once , the other time can be save for the next round 
-    
+### phase 2
 
 
-- Future Goals :
-    - User Graphical interface
-    - players can enter their names 
-    - the winner can share the result into facebook 
+    ### level one :
+- starts when the user starts the game 
+- speed is 1 
+- finishes after 3 minutes from start
+- No additional features
+    #### level two : 
+- screen tells that level two starts 
+- speed is 2 or 3 
+- the winner can strech the player width using key for 3 times 
+- the level finishes after 3 minutes 
+
+  ### level 3 
 
 
-    
+
+
+
+### phase 3
+
+
+- improve the user interface 
+- players can enter their names
+- the winner can share the result into facebook
+- Refactore Code 
